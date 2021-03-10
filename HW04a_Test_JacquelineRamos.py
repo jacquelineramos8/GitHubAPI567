@@ -10,7 +10,7 @@ from HW04a_JacquelineRamos import github_repos
 class TestGithubRepos(unittest.TestCase):
     def test_valid_users(self):
         jr_expected = ['Repo: 567HW01 Number of commits 1', 
-        'Repo: GitHubAPI567 Number of commits 8', 
+        'Repo: GitHubAPI567 Number of commits 10', 
         'Repo: hello-world Number of commits 3', 
         'Repo: helloworld Number of commits 1', 
         'Repo: Student-Repository Number of commits 4', 
