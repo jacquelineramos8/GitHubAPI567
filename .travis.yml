@@ -5,4 +5,4 @@ install:
   - pip install requests
 # command to run tests
 script:
-  - python -m unittest TestGithubRepos
+  - python -m unittest HW04a_Test_JacquelineRamos
